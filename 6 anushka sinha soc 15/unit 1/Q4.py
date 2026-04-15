@@ -1,4 +1,4 @@
-A= {"name": "Yash","roll_no": 69,"course": "Python"}
+A= {"name": "anushka","roll_no": 6,"course": "Python"}
 print(A["name"])
 
  #updating
