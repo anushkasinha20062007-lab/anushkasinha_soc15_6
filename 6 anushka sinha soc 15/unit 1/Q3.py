@@ -5,7 +5,7 @@ print(A[-1])
 
 
 #nested 
-B = ("yash", "roll.69", ("python", "code"))
+B = ("anushka", "roll.6", ("python", "code"))
 print(B[0])
 print(B[2])
 print(B[2][0])
